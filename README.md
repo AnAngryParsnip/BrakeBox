@@ -1,9 +1,9 @@
 # BrakeBox
 
-A DIY, standalone brake pedal controller for sim racing. BrakeBox replaces
-a stock potentiometer pedal (e.g. a Logitech G29's) with a load cell, and
-gives you full control over the response curve, deadzones, and bite point
-— all configured on-device via a small OLED screen and three rotary
+A DIY, standalone brake pedal controller for sim racing. BrakeBox sits between
+a custom load cell brake mod using HX711 amplifier and your PC, giving you full 
+control over the response curve and deadzones
+— configured on-device via a small OLED screen and three rotary
 encoders, with no PC app required for normal use.
 
 ![BrakeBox](docs/images/main.jpg)
