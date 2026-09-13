@@ -6,7 +6,7 @@ gives you full control over the response curve, deadzones, and bite point
 — all configured on-device via a small OLED screen and three rotary
 encoders, with no PC app required for normal use.
 
-![BrakeBox](docs/images/hero.jpg)
+![BrakeBox](docs/images/main.jpg)
 <!-- swap in a real photo of the finished unit -->
 
 ## Features
@@ -41,7 +41,7 @@ firmware/         Arduino sketch (BrakeBox.ino)
 docs/
   manual/         User manual (.docx) and screen mockups/photos
   hardware/       Wiring notes, BOM, hardware modifications
-  images/         Photos and diagrams used in this README and the manual
+  images/         Photos of the unit
 LICENSE.md        Project license (CC BY-NC-SA 4.0)
 README.md         This file
 ```
