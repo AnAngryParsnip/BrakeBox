@@ -55,7 +55,7 @@ README.md         This file
 3. Apply the HX711 80SPS modification above.
 4. Power on, follow the on-screen calibration steps.
 
-See the full [user manual](docs/manual/BrakeBox_User_Manual.docx) for
+See the full [user manual](docs/manual/BrakeBox_User_Manual.pdf) for
 day-to-day use once it is built.
 
 ## License
